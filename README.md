@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on Blog application [DjangoBlogApp](https://github.com/Aakashmid/DjangoBlogApp.git)
 
-- 🌱 I’m currently learning **Django , Javascript**
+- 🌱 I’m currently learning **Django REST Framework**
 
 - 📫 How to reach me **aakash13102005@gmail.com**
 
