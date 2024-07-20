@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashmid&label=Profile%20views&color=0e75b6&style=flat" alt="aakashmid" /> </p>
 
-- 🔭 I'm currently working on Blog application [DjangoBlogApp](https://github.com/Aakashmid/DjangoBlogApp.git)
+- 🔭 I'm currently working on Blog application [DjangoBlogApp](https://github.com/Aakashmid/DjangoBlogApp.git) ,  HackerRank Clone project [HackerRankk_Clone](https://github.com/Aakashmid/DjangoBlogApp.git)(https://github.com/Aakashmid/HackerRank_Clone)
 
 - 🌱 I’m currently learning **Django REST Framework , ReactJs**
 
