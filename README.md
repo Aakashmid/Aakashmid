@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashmid&label=Profile%20views&color=0e75b6&style=flat" alt="aakashmid" /> </p>
 
-- 🔭 I'm currently working on Full Stack Social media app  [SocialMediaApp](https://github.com/Aakashmid/SocialMediaApp)
+- 🔭 I'm currently working on Full Stack Social media app  [SocialMediaApp](https://github.com/Aakashmid/SocialMediaApp)  , and at [Kalrav25](https://github.com/prashantjinwal/Kalrav_25)  DDUC fest  website
 
-- 🌱 I’m currently learning **Django REST Framework , ReactJs**
+- 🌱 I’m currently learning **Docker , Django Channels**
 
 - 📫 How to reach me **aakash13102005@gmail.com**
 
@@ -32,5 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashmid&show_icons=true&locale=en" alt="aakashmid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashmid&" alt="aakashmid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashmid&show_icons=true" alt="aakashmid" /></p>
+
 
