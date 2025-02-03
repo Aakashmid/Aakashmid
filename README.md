@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-- 🔭 I’m currently working on [SocialMediaWebApp](https://github.com/Aakashmid/SocialMediaApp) , [Kalrav_25](https://github.com/prashantjinwal/Kalrav_25)  DDUC  fest website
+- 🔭 I’m currently working on [SocialMediaWebApp](https://github.com/Aakashmid/SocialMediaApp) , [Kalrav_25](https://www.kalravdduc.in/#/)  DDUC  fest website
 
 - 🌱 I’m currently learning **Docker , Django Channels**
 
