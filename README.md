@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-- 🔭 I’m currently working on [SocialMediaWebApp](https://github.com/Aakashmid/SocialMediaApp) , [Kalrav_25](https://www.kalravdduc.in/#/)  DDUC  fest website
+- 🔭 I’m currently working on [Fork-It Portfolio](https://github.com/prashantjinwal/FORKIT-PORTFOLIO) ,
 
-- 🌱 I’m currently learning **Docker , Django Channels**
+- 🌱 I’m currently learning **Docker , Next.js**
 
-- 💬 Ask me about **Django , React**
+- 💬 Ask me about **Django , React **
 
 - 📫 How to reach me **aakash13102005@gmail.com**
 
