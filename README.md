@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-- 🔭 I’m currently working on [Fork-It Portfolio](https://github.com/prashantjinwal/FORKIT-PORTFOLIO) ,
+- 🔭 I’m currently working on [Qurion](https://github.com/Aakashmid/Qurion) an Ai Web Application resembling features like chatgpt,
 
 - 🌱 I’m currently learning **Docker , Next.js**
 
