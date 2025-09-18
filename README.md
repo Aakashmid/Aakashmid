@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-- 🔭 I’m currently working on [Qurion](https://github.com/Aakashmid/Qurion) an Ai Web Application resembling chatgpt,
+- 🔭 I’m currently working on SIH project "UpWell(Digital Mental Health and Psychological Support System for Students)" ,
 
-- 🌱 I’m currently learning **Docker , Next.js**
+<!-- - 🌱 I’m currently learning **Docker , Next.js**  -->
 
-- 💬 Ask me about **Django , React **
+- 💬 Ask me about **Django , React , DSA **
 
 - 📫 How to reach me **aakash13102005@gmail.com**
 
