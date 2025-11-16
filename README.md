@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-- 🔭 I’m currently working on SIH project "UpWell(Digital Mental Health and Psychological Support System for Students)" ,
+- 🔭 I’m currently working on my portfolio project [my-portfolio-site](https://my-portfolio-v2-six-nu.vercel.app/]) ,
 
 <!-- - 🌱 I’m currently learning **Docker , Next.js**  -->
 
-- 💬 Ask me about **Django , React , DSA **
+- 💬 Ask me about **Django Rest Framework, React Js , DSA **
 
 - 📫 How to reach me **aakash13102005@gmail.com**
 
