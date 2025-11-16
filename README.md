@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-- 🔭 I’m currently working on my portfolio project [my-portfolio-site](https://my-portfolio-v2-six-nu.vercel.app/]) ,
+- 🔭 I’m currently working on my portfolio project [my-portfolio-site](https://my-portfolio-v2-six-nu.vercel.app) ,
 
 <!-- - 🌱 I’m currently learning **Docker , Next.js**  -->
 
