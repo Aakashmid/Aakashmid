@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">A passionate Full Stack AI Engineer </h3>
+<div>
+<h1 align="center">Hi 👋 I'm Aakash Kumar Jha</h1> 
+<h2 align="center">Full Stack Developer building things that work</h2>
+</div>
+
 
 <!--- - 🔭 I’m currently working on my portfolio project [my-portfolio-site](https://my-portfolio-v2-six-nu.vercel.app) ,  -->
 
-- 🌱 I’m currently learning AI Agentic engineering from [Ed Donner](https://www.linkedin.com/in/eddonner/)  and FastApi . 
+- 🌱 I’m currently learning FastAPI . 
 
-- 💬 Ask me about **Django Rest Framework, React Js , DSA , Python **
+- 💬 Ask me about **Django, ReactJs , DSA , Python **
 
 - 📫 How to reach me **aakash13102005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aakash-kumar-jha-81b161293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-kumar-jha-81b161293" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aakash13102005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aakash13102005" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aakash-kr-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-kr-jha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aakashizuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashizuku" height="30" width="40" /></a>
 </p>
 
